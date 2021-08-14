@@ -1,4 +1,4 @@
-module rohrschacht/btrfsRemoveEmptyQgroups
+module github.com/rohrschacht/btrfsRemoveEmptyQgroups
 
 go 1.16
 
